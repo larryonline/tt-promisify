@@ -1,0 +1,2 @@
+<view class="intro">Welcome to Gadget</view>
+<textarea class="console_box" value="{{consoleMessage}}" height="600"/>

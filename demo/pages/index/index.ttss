@@ -1,0 +1,11 @@
+.intro {
+  margin: 30px;
+  text-align: center;
+}
+
+.console_box {
+  margin:0;
+  width:100%;
+  background-color:#cfcfcf;
+  font-size:9sp;
+}
