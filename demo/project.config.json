@@ -1,0 +1,11 @@
+{
+    "setting": {
+        "urlCheck": true,
+        "es6": true,
+        "postcss": true,
+        "minified": true,
+        "newFeature": true
+    },
+    "appid": "cli_a08d6c2e2fec500b",
+    "projectname": "tt-promisify-demo"
+}
